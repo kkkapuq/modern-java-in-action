@@ -1,0 +1,12 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìûŠÔıÿÿÿÿ8çÀ˜É2J$554def78-1c85-46ff-bcd6-321f8655d732
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÅóùÿÿÿÿ8çÀ˜É2J$690d3b75-efe2-4779-95d8-9001206f1c5f
+‡
+java:S1854"?Remove this useless assignment to local variable "hiddenFiles".(Ÿ±ïêüÿÿÿÿ8èÀ˜É2J$287281ad-b108-4fdb-86d1-e7c29da80191
+]	java:S125"<This block of commented-out lines of code should be removed.(ëˆàÅùÿÿÿÿ8·¦¡É2
+x
+java:S1481"0Remove this unused "hiddenFiles" local variable.(Ÿ±ïêüÿÿÿÿ8§ø É2J$383e6c01-ffa8-445e-9cd9-93f158d1ab41
+L
+java:S1128"/Remove this unused import 'java.io.FileFilter'.(ÔÅÑ—8¹¦¡É2
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¹¦¡É2
