@@ -11,3 +11,8 @@ f
 6src/source/ModernJavaInAction_master/chap03/Apple.java,b/0/b0f4ed7633823e23a8de16b2eb80dae885bc31eb
 p
 @src/source/ModernJavaInAction_master/chap01/FilteringApples.java,0/4/042b1b5e52105f888dad86a266543609a2b191f6
+R
+"src/main/chapter_1/Practice_1.java,1/6/16985d70dc21f364fe792296744449583df8a341
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
